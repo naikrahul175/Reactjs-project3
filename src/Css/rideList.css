@@ -1,0 +1,20 @@
+.rideListData {
+   margin: 40px;
+}
+.display-list {
+    background-color: rgb(19, 20, 20);
+    color: white;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:10px 5px
+}
+.ride-middle {
+    align-items: center;
+}
+.ride-right {
+    align-items: center;
+    margin-right: 20px;
+}
